@@ -1,0 +1,5 @@
+[Default Applications]
+application/json=sublime_text.desktop
+
+[Added Associations]
+application/json=sublime_text.desktop;

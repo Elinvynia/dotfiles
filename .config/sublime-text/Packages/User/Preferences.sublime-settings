@@ -1,0 +1,13 @@
+{
+	"ignored_packages":
+	[
+		"Rust",
+		"Vintage",
+	],
+	"show_line_endings": true,
+	"show_encoding": true,
+	"ensure_newline_at_eof_on_save": true,
+	"trim_trailing_white_space_on_save": true,
+	"match_brackets_angle": true,
+	"font_size": 12,
+}
